@@ -1,5 +1,9 @@
 # Save the Bank! Step-by-Step
 
+> Note: Just so it is 100% clear, the following is a fun exercise to teach you how to use Linux VMs in the cloud. You will not actually be preventing a cyber attack!
+
+A group of hackers called *The Collektive* are attempting to launch an attack on Haliwest TSB's central banking servers! It's up to you to infiltrate their systems, gather information about their attack and save the bank!
+
 ## Prerequisites
 
 - Log into your QA-provided AWS account
