@@ -4,6 +4,8 @@
 
 A group of hackers called *The Collektive* are attempting to launch an attack on Haliwest TSB's central banking servers! It's up to you to infiltrate their systems, gather information about their attack and save the bank!
 
+> Recommended listening: [*Decksanddrumsandrockandroll* by Propellorheads](https://www.youtube.com/watch?v=xIXCVZ9evuo&list=PLZ6N_J_H1xqekfsCJdHAqzJj8d-DR_Q7Z&index=13), for the authentic hacking experience.
+
 ## Prerequisites
 
 - Log into your QA-provided AWS account
